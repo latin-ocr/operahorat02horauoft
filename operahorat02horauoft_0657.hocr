@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operahorat02horauoft_0657.png"; bbox 0 0 1708 2938; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 281 666 598 2438">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 281 666 598 2438">
+     <span class='ocr_line' id='line_1_1' title="bbox 281 666 471 2420; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 281 2418 293 2420; x_wconf 73' lang='lat'><strong>²</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 372 1044 374 1047; x_wconf 70' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 410 666 471 831; x_wconf 74' lang='lat'>14524</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 348 1736 443 2368; textangle 90"><span class='ocrx_word' id='word_1_4' title='bbox 348 2300 397 2368; x_wconf 74' lang='grc' dir='ltr'>Η,</span> <span class='ocrx_word' id='word_1_5' title='bbox 383 1736 443 1935; x_wconf 76' lang='lat' dir='ltr'>Horace</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 404 915 598 2438; textangle 90"><span class='ocrx_word' id='word_1_6' title='bbox 404 2427 500 2438; x_wconf 35' lang='grc' dir='ltr'>ξ’</span> <span class='ocrx_word' id='word_1_7' title='bbox 412 2107 476 2372; x_wconf 71' lang='grc' dir='ltr'>ΗΘΠδΒοΐ,</span> <span class='ocrx_word' id='word_1_8' title='bbox 460 1641 519 1805; x_wconf 75' lang='lat' dir='ltr'>Opera</span> <span class='ocrx_word' id='word_1_9' title='bbox 483 1481 598 1644; x_wconf 55' lang='lat' dir='ltr'>{aeds}</span> <span class='ocrx_word' id='word_1_10' title='bbox 491 1248 554 1441; x_wconf 76' lang='lat' dir='ltr'><strong>Bothe.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 519 1038 570 1142; x_wconf 68' lang='lat' dir='ltr'>Neu</span> <span class='ocrx_word' id='word_1_12' title='bbox 535 915 583 1005; x_wconf 81' lang='lat' dir='ltr'>ed.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 704 418 1670 2542">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 704 418 1670 2542">
+     <span class='ocr_line' id='line_1_4' title="bbox 704 418 1670 2542; textangle 90"><span class='ocrx_word' id='word_1_13' title='bbox 704 418 1670 2542; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
